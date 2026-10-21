@@ -16,4 +16,4 @@
 ## 🌿 فيلم «عِشْبَة الجْبَلْ (العِرْق النَّادِر)» — 70 ثانية (7 مشاهد × 6 أشخاص)
 - 📁 **مستودع الفيلم الكامل:** https://github.com/moharahem223/ushbat-al-jabal
 - ⬇️ **الرابط المباشر لتحميل ملف الـZIP (بضغطة واحدة للهاتف):**
-  https://github.com/moharahem223/latchi-public-hub/releases/download/ushbat-al-jabal-v1/USHBAT_AL_JABAL_SCENES_PACK.zip
+  https://github.com/moharahem223/latchi-public-hub/releases/download/ushbat-al-jabal-v1/USHBAT_AL_JABAL_FLOW_PACK.zip
