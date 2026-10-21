@@ -17,3 +17,8 @@
 - 📁 **مستودع الفيلم الكامل:** https://github.com/moharahem223/ushbat-al-jabal
 - ⬇️ **الرابط المباشر لتحميل ملف الـZIP (بضغطة واحدة للهاتف):**
   https://github.com/moharahem223/latchi-public-hub/releases/download/ushbat-al-jabal-v1/USHBAT_AL_JABAL_FLOW_PACK.zip
+
+---
+### 👑 فيلم الدراما الكورية: مَلِكُ الظِّلّ (`SEOUL_SHADOW_KING` — 12 مشهداً · دقيقتان)
+- ⬇️ **التحميل المباشر بضغطة واحدة (35.22 MB):** [https://github.com/moharahem223/latchi-public-hub/releases/download/seoul-shadow-king-v1/SEOUL_SHADOW_KING_FLOW_PACK.zip](https://github.com/moharahem223/latchi-public-hub/releases/download/seoul-shadow-king-v1/SEOUL_SHADOW_KING_FLOW_PACK.zip)
+- 📁 **مستودع الفيلم الكامل:** https://github.com/moharahem223/seoul-shadow-king
